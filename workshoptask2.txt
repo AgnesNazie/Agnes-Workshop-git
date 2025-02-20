@@ -1,2 +1,2 @@
 completed task 2 of the workshop
-new task given for tommorrow
+fixed bug
